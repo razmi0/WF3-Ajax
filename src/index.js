@@ -1,5 +1,7 @@
+import Users from './users';
+
 import './index.scss';
 
-const hello = 'hello';
+const users = new Users('#app');
 
-console.log(hello);
+users.run();
