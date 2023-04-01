@@ -1,7 +1,7 @@
 # Court descriptif non-exaustif du cours
 
 - Installation de NodeJS =>
-- Installation d'un starter kit webdev avec webpack, babel, ESlint, ect..(Made in le prof) Voir package.json
+- Installation d'un starter kit webdev avec webpack, babel, ESlint, ect..(Merci Xzen, notre formateur) Voir package.json
 - Petite configuration dans .eslintrc.json et webpack.config.js pour les rendre moins aggressif.
 - Installation de Postman, faire une premiere requete GET vers randomuser.me.
 - Comprendre la réponse du serveur, afficher la data en JSON en particulier.
